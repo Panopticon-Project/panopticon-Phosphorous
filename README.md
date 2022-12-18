@@ -11,3 +11,7 @@ https://www.cyberscoop.com/iran-hacking-clearsky-microsoft-charming-kitten/
 https://www.securityweek.com/iranian-hackers-update-spear-phishing-techniques-recent-campaign
 
 https://www.cyberscoop.com/munich-security-conference-phishing-iran-apt35/
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-257a
+
+https://www.team-cymru.com/post/iranian-exploitation-activities-continue-as-of-november-2022
